@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		391FE2A222D808AE0078BC00 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 391FE2A122D808AE0078BC00 /* AppDelegate.swift */; };
-		391FE2A422D808AE0078BC00 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 391FE2A322D808AE0078BC00 /* ViewController.swift */; };
 		391FE2A722D808AE0078BC00 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2A522D808AE0078BC00 /* Main.storyboard */; };
 		391FE2A922D808AE0078BC00 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2A822D808AE0078BC00 /* Assets.xcassets */; };
 		391FE2AC22D808AE0078BC00 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2AA22D808AE0078BC00 /* LaunchScreen.storyboard */; };
@@ -25,7 +24,6 @@
 /* Begin PBXFileReference section */
 		391FE29E22D808AE0078BC00 /* C0751731_MidTerm_MAD3115S2019.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = C0751731_MidTerm_MAD3115S2019.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		391FE2A122D808AE0078BC00 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		391FE2A322D808AE0078BC00 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		391FE2A622D808AE0078BC00 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		391FE2A822D808AE0078BC00 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		391FE2AB22D808AE0078BC00 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -73,7 +71,6 @@
 				391FE2C622D8304D0078BC00 /* Swift Files */,
 				391FE2BD22D8109B0078BC00 /* Images */,
 				391FE2A122D808AE0078BC00 /* AppDelegate.swift */,
-				391FE2A322D808AE0078BC00 /* ViewController.swift */,
 				391FE2A522D808AE0078BC00 /* Main.storyboard */,
 				391FE2A822D808AE0078BC00 /* Assets.xcassets */,
 				391FE2AA22D808AE0078BC00 /* LaunchScreen.storyboard */,
@@ -183,7 +180,6 @@
 			files = (
 				391FE2CF22D8E2A10078BC00 /* BillListTableViewController.swift in Sources */,
 				391FE2CD22D832AC0078BC00 /* Utility.swift in Sources */,
-				391FE2A422D808AE0078BC00 /* ViewController.swift in Sources */,
 				391FE2CA22D831590078BC00 /* Customer.swift in Sources */,
 				391FE2A222D808AE0078BC00 /* AppDelegate.swift in Sources */,
 			);
