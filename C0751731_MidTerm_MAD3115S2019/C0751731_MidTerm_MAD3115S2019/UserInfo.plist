@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!--
-   CustomerList.plist
-   C0751731_MidTerm_MAD3115S2019
 
-   Created by Vijender Singh on 2019-07-11.
-   Copyright (c) 2019 Shivani Dhiman. All rights reserved.
--->
 <plist version="1.0">
+    <dict>
+        <key>customers</key>
+        <array>
     <dict>
         <key>customerID</key>
         <integer>1</integer>
@@ -23,10 +20,10 @@
     <dict>
         <key>customerID</key>
         <integer>2</integer>
-        <key>customerLastName</key>
-        <string>Sharma</string>
         <key>customerFirstName</key>
         <string>Anandita</string>
+        <key>customerLastName</key>
+        <string>Sharma</string>
         <key>email</key>
         <string>as12@gmail.com</string>
         <key>password</key>
@@ -47,10 +44,10 @@
     <dict>
         <key>customerID</key>
         <integer>4</integer>
-        <key>customerLastName</key>
-        <string>Garg</string>
         <key>customerFirstName</key>
         <string>Vipul</string>
+        <key>customerLastName</key>
+        <string>Garg</string>
         <key>email</key>
         <string>vg12@gmail.com</string>
         <key>password</key>
