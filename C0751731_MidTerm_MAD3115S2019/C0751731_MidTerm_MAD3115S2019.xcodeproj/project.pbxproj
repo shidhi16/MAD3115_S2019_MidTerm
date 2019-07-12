@@ -12,11 +12,10 @@
 		391FE2A722D808AE0078BC00 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2A522D808AE0078BC00 /* Main.storyboard */; };
 		391FE2A922D808AE0078BC00 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2A822D808AE0078BC00 /* Assets.xcassets */; };
 		391FE2AC22D808AE0078BC00 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2AA22D808AE0078BC00 /* LaunchScreen.storyboard */; };
-		391FE2B422D80B460078BC00 /* icons8-check-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2B322D80B450078BC00 /* icons8-check-50.png */; };
-		391FE2B622D80CA20078BC00 /* pngtree-hard-textured-strokes-rose-dan-gold-color-png-image_1532285.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2B522D80CA20078BC00 /* pngtree-hard-textured-strokes-rose-dan-gold-color-png-image_1532285.jpg */; };
 		391FE2B822D80D190078BC00 /* icons8-reading-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2B722D80D190078BC00 /* icons8-reading-50.png */; };
-		391FE2BA22D80E650078BC00 /* 5acbd9a8f1c84_thumb900.png in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2B922D80E650078BC00 /* 5acbd9a8f1c84_thumb900.png */; };
-		391FE2BC22D80F160078BC00 /* 43-435421_abstract-png-high-quality-image-blue-background-for.png in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2BB22D80F160078BC00 /* 43-435421_abstract-png-high-quality-image-blue-background-for.png */; };
+		391FE2BF22D810B40078BC00 /* bg1.png in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2BE22D810B40078BC00 /* bg1.png */; };
+		391FE2C122D815050078BC00 /* bg2.png in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2C022D815050078BC00 /* bg2.png */; };
+		391FE2C322D815C20078BC00 /* icons8-login-100.png in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2C222D815C20078BC00 /* icons8-login-100.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,11 +26,10 @@
 		391FE2A822D808AE0078BC00 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		391FE2AB22D808AE0078BC00 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		391FE2AD22D808AE0078BC00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		391FE2B322D80B450078BC00 /* icons8-check-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-check-50.png"; sourceTree = "<group>"; };
-		391FE2B522D80CA20078BC00 /* pngtree-hard-textured-strokes-rose-dan-gold-color-png-image_1532285.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "pngtree-hard-textured-strokes-rose-dan-gold-color-png-image_1532285.jpg"; sourceTree = "<group>"; };
 		391FE2B722D80D190078BC00 /* icons8-reading-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-reading-50.png"; sourceTree = "<group>"; };
-		391FE2B922D80E650078BC00 /* 5acbd9a8f1c84_thumb900.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5acbd9a8f1c84_thumb900.png; sourceTree = "<group>"; };
-		391FE2BB22D80F160078BC00 /* 43-435421_abstract-png-high-quality-image-blue-background-for.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "43-435421_abstract-png-high-quality-image-blue-background-for.png"; sourceTree = "<group>"; };
+		391FE2BE22D810B40078BC00 /* bg1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg1.png; sourceTree = "<group>"; };
+		391FE2C022D815050078BC00 /* bg2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg2.png; sourceTree = "<group>"; };
+		391FE2C222D815C20078BC00 /* icons8-login-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-login-100.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,11 +62,8 @@
 		391FE2A022D808AE0078BC00 /* C0751731_MidTerm_MAD3115S2019 */ = {
 			isa = PBXGroup;
 			children = (
-				391FE2BB22D80F160078BC00 /* 43-435421_abstract-png-high-quality-image-blue-background-for.png */,
-				391FE2B922D80E650078BC00 /* 5acbd9a8f1c84_thumb900.png */,
+				391FE2BD22D8109B0078BC00 /* Images */,
 				391FE2B722D80D190078BC00 /* icons8-reading-50.png */,
-				391FE2B522D80CA20078BC00 /* pngtree-hard-textured-strokes-rose-dan-gold-color-png-image_1532285.jpg */,
-				391FE2B322D80B450078BC00 /* icons8-check-50.png */,
 				391FE2A122D808AE0078BC00 /* AppDelegate.swift */,
 				391FE2A322D808AE0078BC00 /* ViewController.swift */,
 				391FE2A522D808AE0078BC00 /* Main.storyboard */,
@@ -77,6 +72,16 @@
 				391FE2AD22D808AE0078BC00 /* Info.plist */,
 			);
 			path = C0751731_MidTerm_MAD3115S2019;
+			sourceTree = "<group>";
+		};
+		391FE2BD22D8109B0078BC00 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				391FE2C222D815C20078BC00 /* icons8-login-100.png */,
+				391FE2C022D815050078BC00 /* bg2.png */,
+				391FE2BE22D810B40078BC00 /* bg1.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -141,10 +146,9 @@
 				391FE2AC22D808AE0078BC00 /* LaunchScreen.storyboard in Resources */,
 				391FE2A922D808AE0078BC00 /* Assets.xcassets in Resources */,
 				391FE2A722D808AE0078BC00 /* Main.storyboard in Resources */,
-				391FE2BC22D80F160078BC00 /* 43-435421_abstract-png-high-quality-image-blue-background-for.png in Resources */,
-				391FE2B422D80B460078BC00 /* icons8-check-50.png in Resources */,
-				391FE2B622D80CA20078BC00 /* pngtree-hard-textured-strokes-rose-dan-gold-color-png-image_1532285.jpg in Resources */,
-				391FE2BA22D80E650078BC00 /* 5acbd9a8f1c84_thumb900.png in Resources */,
+				391FE2C122D815050078BC00 /* bg2.png in Resources */,
+				391FE2BF22D810B40078BC00 /* bg1.png in Resources */,
+				391FE2C322D815C20078BC00 /* icons8-login-100.png in Resources */,
 				391FE2B822D80D190078BC00 /* icons8-reading-50.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
