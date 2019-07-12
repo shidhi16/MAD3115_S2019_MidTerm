@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   CustomerList.plist
+   C0751731_MidTerm_MAD3115S2019
+
+   Created by Vijender Singh on 2019-07-11.
+   Copyright (c) 2019 Shivani Dhiman. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>customerID</key>
+        <integer>1</integer>
+        <key>customerFirstName</key>
+        <string>Shivani</string>
+        <key>customerLastName</key>
+        <string>Dhiman</string>
+        <key>email</key>
+        <string>sd16@gmail.com</string>
+        <key>password</key>
+        <string>123456</string>
+    </dict>
+    <dict>
+        <key>customerID</key>
+        <integer>2</integer>
+        <key>customerLastName</key>
+        <string>Sharma</string>
+        <key>customerFirstName</key>
+        <string>Anandita</string>
+        <key>email</key>
+        <string>as12@gmail.com</string>
+        <key>password</key>
+        <string>123456</string>
+    </dict>
+    <dict>
+        <key>customerID</key>
+        <integer>3</integer>
+        <key>customerFirstName</key>
+        <string>Naina</string>
+        <key>customerLastName</key>
+        <string>Vaghasiya</string>
+        <key>email</key>
+        <string>nv12@gmail.com</string>
+        <key>password</key>
+        <string>123456</string>
+    </dict>
+    <dict>
+        <key>customerID</key>
+        <integer>4</integer>
+        <key>customerLastName</key>
+        <string>Garg</string>
+        <key>customerFirstName</key>
+        <string>Vipul</string>
+        <key>email</key>
+        <string>vg12@gmail.com</string>
+        <key>password</key>
+        <string>123456</string>
+    </dict><dict>
+        <key>customerID</key>
+        <integer>5</integer>
+        <key>customerFirstName</key>
+        <string>Neeraj</string>
+        <key>customerLastName</key>
+        <string>Prashar</string>
+        <key>email</key>
+        <string>np12@gmail.com</string>
+        <key>password</key>
+        <string>123456</string>
+    </dict>
+</array>
+    </dict>
+</plist>
