@@ -16,7 +16,7 @@
 		391FE2BF22D810B40078BC00 /* bg1.png in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2BE22D810B40078BC00 /* bg1.png */; };
 		391FE2C122D815050078BC00 /* bg2.png in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2C022D815050078BC00 /* bg2.png */; };
 		391FE2C322D815C20078BC00 /* icons8-login-100.png in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2C222D815C20078BC00 /* icons8-login-100.png */; };
-		391FE2C522D818E10078BC00 /* CustomerList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2C422D818E10078BC00 /* CustomerList.plist */; };
+		391FE2C522D818E10078BC00 /* UserInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2C422D818E10078BC00 /* UserInfo.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +31,7 @@
 		391FE2BE22D810B40078BC00 /* bg1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg1.png; sourceTree = "<group>"; };
 		391FE2C022D815050078BC00 /* bg2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg2.png; sourceTree = "<group>"; };
 		391FE2C222D815C20078BC00 /* icons8-login-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-login-100.png"; sourceTree = "<group>"; };
-		391FE2C422D818E10078BC00 /* CustomerList.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = CustomerList.plist; sourceTree = "<group>"; };
+		391FE2C422D818E10078BC00 /* UserInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = UserInfo.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,7 +72,7 @@
 				391FE2A822D808AE0078BC00 /* Assets.xcassets */,
 				391FE2AA22D808AE0078BC00 /* LaunchScreen.storyboard */,
 				391FE2AD22D808AE0078BC00 /* Info.plist */,
-				391FE2C422D818E10078BC00 /* CustomerList.plist */,
+				391FE2C422D818E10078BC00 /* UserInfo.plist */,
 			);
 			path = C0751731_MidTerm_MAD3115S2019;
 			sourceTree = "<group>";
@@ -148,7 +148,7 @@
 			files = (
 				391FE2AC22D808AE0078BC00 /* LaunchScreen.storyboard in Resources */,
 				391FE2A922D808AE0078BC00 /* Assets.xcassets in Resources */,
-				391FE2C522D818E10078BC00 /* CustomerList.plist in Resources */,
+				391FE2C522D818E10078BC00 /* UserInfo.plist in Resources */,
 				391FE2A722D808AE0078BC00 /* Main.storyboard in Resources */,
 				391FE2C122D815050078BC00 /* bg2.png in Resources */,
 				391FE2BF22D810B40078BC00 /* bg1.png in Resources */,
