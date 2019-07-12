@@ -19,6 +19,7 @@
 		391FE2CA22D831590078BC00 /* Customer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 391FE2C922D831590078BC00 /* Customer.swift */; };
 		391FE2CD22D832AC0078BC00 /* Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 391FE2CC22D832AC0078BC00 /* Utility.swift */; };
 		391FE2DD22D8EF880078BC00 /* CustomerListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 391FE2DC22D8EF880078BC00 /* CustomerListViewController.swift */; };
+		391FE2DF22D8F2240078BC00 /* icons8-list-view-100.png in Resources */ = {isa = PBXBuildFile; fileRef = 391FE2DE22D8F2240078BC00 /* icons8-list-view-100.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		391FE2C922D831590078BC00 /* Customer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Customer.swift; sourceTree = "<group>"; };
 		391FE2CC22D832AC0078BC00 /* Utility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utility.swift; sourceTree = "<group>"; };
 		391FE2DC22D8EF880078BC00 /* CustomerListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomerListViewController.swift; sourceTree = "<group>"; };
+		391FE2DE22D8F2240078BC00 /* icons8-list-view-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-list-view-100.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 		391FE2BD22D8109B0078BC00 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				391FE2DE22D8F2240078BC00 /* icons8-list-view-100.png */,
 				391FE2B722D80D190078BC00 /* icons8-reading-50.png */,
 				391FE2C222D815C20078BC00 /* icons8-login-100.png */,
 				391FE2C022D815050078BC00 /* bg2.png */,
@@ -164,6 +167,7 @@
 				391FE2A922D808AE0078BC00 /* Assets.xcassets in Resources */,
 				391FE2C522D818E10078BC00 /* UserInfo.plist in Resources */,
 				391FE2A722D808AE0078BC00 /* Main.storyboard in Resources */,
+				391FE2DF22D8F2240078BC00 /* icons8-list-view-100.png in Resources */,
 				391FE2C122D815050078BC00 /* bg2.png in Resources */,
 				391FE2BF22D810B40078BC00 /* bg1.png in Resources */,
 				391FE2C322D815C20078BC00 /* icons8-login-100.png in Resources */,
